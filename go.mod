@@ -1,4 +1,4 @@
-module github.com/si3nloong/go-editorjs
+module github.com/wetix/go-editorjs
 
 go 1.17
 
